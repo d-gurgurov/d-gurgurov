@@ -9,12 +9,12 @@ Feel free to explore my repositories and reach out if you're interested in colla
 🔗 **Connect with me:**
 <p align="left">
   <a href="https://huggingface.co/d-gurgurov">
-    <img src="https://raw.githubusercontent.com/d-gurgurov/d-gurgurov/main/assets/huggingface-icon.svg" alt="Hugging Face" height="30" width="30" />
+    <img src="https://raw.githubusercontent.com/d-gurgurov/d-gurgurov/main/assets/huggingface-icon.svg" alt="Hugging Face" height="30" width="30" style="margin-right: 10px;" />
   </a>
   <a href="https://www.linkedin.com/in/daniil-gurgurov/">
-    <img src="https://raw.githubusercontent.com/d-gurgurov/d-gurgurov/main/assets/linkedin-icon.png" alt="LinkedIn" height="30" width="30" />
+    <img src="https://raw.githubusercontent.com/d-gurgurov/d-gurgurov/main/assets/linkedin-icon.png" alt="LinkedIn" height="30" width="30" style="margin-right: 10px;" />
   </a>
   <a href="https://d-gurgurov.github.io/">
-    <img src="https://raw.githubusercontent.com/d-gurgurov/d-gurgurov/main/assets/icon.ico" alt="Website" height="30" width="30" />
+    <img src="https://raw.githubusercontent.com/d-gurgurov/d-gurgurov/main/assets/icon.ico" alt="Website" height="30" width="30" style="margin-right: 10px;" />
   </a>
 </p>
