@@ -8,7 +8,7 @@ Feel free to explore my repositories and reach out if you're interested in colla
 
 🔗 **Connect with me:**
 <p align="left">
-  <a href="https://huggingface.co/d-gurgurov">
+  <a href="https://huggingface.co/DGurgurov">
     <img src="https://raw.githubusercontent.com/d-gurgurov/d-gurgurov/main/assets/huggingface-icon.svg" alt="Hugging Face" height="30" width="30" style="margin-right: 20px;" />
   </a>
   <a href="https://www.linkedin.com/in/daniil-gurgurov/">
