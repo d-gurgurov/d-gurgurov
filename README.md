@@ -7,10 +7,11 @@ Feel free to explore my repositories and reach out if you're interested in colla
 📬 For collaborations, do reach out via [email](mailto:daniil.gurgurov@dfki.de) :)
 
 🔗 **Connect with me:**
-- [Hugging Face](https://huggingface.co/d-gurgurov)
-- [LinkedIn](https://www.linkedin.com/in/daniil-gurgurov/)
-
-📈 **My GitHub Stats:**
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=d-gurgurov&show_icons=true&theme=gotham" alt="d-gurgurov's GitHub stats" />
+<p align="left">
+  <a href="https://huggingface.co/d-gurgurov">
+    <img src="https://raw.githubusercontent.com/d-gurgurov/d-gurgurov/main/assets/huggingface-icon.png" alt="Hugging Face" height="30" width="30" />
+  </a>
+  <a href="https://www.linkedin.com/in/daniil-gurgurov/">
+    <img src="https://raw.githubusercontent.com/d-gurgurov/d-gurgurov/main/assets/linkedin-icon.png" alt="LinkedIn" height="30" width="30" />
+  </a>
 </p>
